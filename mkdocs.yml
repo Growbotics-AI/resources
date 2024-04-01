@@ -1,5 +1,7 @@
 site_name: Growbotics AI Resources
 site_url: https://growbotics-ai.github.io/resources/
+repo_url: https://github.com/Growbotics-AI/resources
+edit_uri: edit/main/docs
 theme:
   name: material
   features:
@@ -12,6 +14,11 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.action.view
+    - content.action.edit
+  icon:
+    edit: material/pencil 
+    view: material/eye
   language: en
   palette:
     - scheme: default
@@ -29,6 +36,16 @@ theme:
   favicon: images/favicon.ico
   logo: images/favicon-32x32.png
 
+nav:
+  - Welcome: index.md
+  - Books: books.md
+  - Conferences: conferences.md
+  - Courses: courses.md
+  - Podcasts: podcasts.md
+  - Tools: tools.md
+  - Useful Websites: websites.md
+  - YouTube Channels: youtube.md
+
 plugins:
   - search
 
@@ -41,6 +58,9 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/growbotics.ai
   manifest: images/site.webmanifest
+  analytics:
+    provider: google
+    property: G-HCZ888XZLK
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -60,4 +80,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/Growbotics-AI"  target="_blank" rel="noopener">Growbotics AI</a>
+  &copy; 2024 <a href="https://github.com/Growbotics-AI"  target="_blank" rel="noopener">Growbotics AI</a>
