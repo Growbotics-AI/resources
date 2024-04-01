@@ -113,20 +113,100 @@ DeepLearning.AI, founded in 2017 by AI and education pioneer Andrew Ng, serves a
 **Record Added:** 01 April 2024
 
 ---
+#### [Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw)
+**Country:** United States  
+**View Count:** 20,248,254 (checked on 01 April 2024)  
+**Video Count:** 478 (checked on 01 April 2024)  
 
-## Robotics
+Steve Brunton's YouTube channel is a treasure trove for anyone interested in data science, machine learning, and mathematical modeling. With a focus on making complex concepts accessible, his videos cover a wide range of topics from introductory material to advanced techniques in the field. Brunton, a professor with a passion for teaching, ensures that learners at all levels find valuable resources to enhance their understanding and application of data science and machine learning principles.
 
-#### [James Bruton](https://www.youtube.com/channel/UCUbDcUPed50Y_7KmfCXKohA)
-**Country:** United Kingdom  
-**View Count:** 151,427,870 (checked on 31 March 2024)  
-**Video Count:** 754 (checked on 31 March 2024)  
-
-James Bruton, a former toy designer turned YouTube maker, shares his passion for robotics, electrical, and mechanical engineering through his innovative and sometimes whimsical inventions. From cosplay to practical designs, James utilizes his trial and error methodology to push the boundaries of DIY and innovation. His channel is a treasure trove of useful maker advice, where 3D printing emerges as a solution to a wide array of challenges, proving that creativity and technology can make a significant impact.
-
-[Watch on Youtube](https://www.youtube.com/channel/UCUbDcUPed50Y_7KmfCXKohA)  
+[Watch on Youtube](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw)  
 **Record Added:** 01 April 2024
 
 ---
+#### [Stanford Computational Imaging Lab](https://www.youtube.com/channel/UCrjWHhrkZnq4jwqvtrx-jvA)
+**Country:** N/A  
+**View Count:** 464,193 (checked on 01 April 2024)  
+**Video Count:** 60 (checked on 01 April 2024)  
+
+The Stanford Computational Imaging Lab focuses on advancing imaging and computer vision technologies. Through their YouTube channel, they share their latest research and innovations in computational photography, computer vision, and related fields. Their work includes developing new methods for capturing and analyzing visual data, with applications ranging from healthcare to entertainment.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCrjWHhrkZnq4jwqvtrx-jvA)  
+**Record Added:** 01 April 2024
+
+---
+#### [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)
+**Country:** GB  
+**View Count:** 5,625,468 (checked on 01 April 2024)  
+**Video Count:** 221 (checked on 01 April 2024)  
+
+Machine Learning Street Talk (MLST) stands out as a leading AI podcast, featuring in-depth discussions on advanced AI research. Hosted by industry experts, the show dives deep into AI's philosophical underpinnings and explores a wide range of AI ideas. MLST is known for its rigorous approach and intellectual diversity, appealing to those eager to explore the complexities of AI. They offer exclusive content and community access through Patreon and are open to sponsorships for those looking to support or collaborate.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)  
+**Record Added:** 01 April 2024
+
+---
+#### [Patrick Loeber](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
+**View Count:** 20,851,694 (checked on 01 April 2024)  
+**Video Count:** 206 (checked on 01 April 2024)  
+
+Patrick Loeber is a passionate Software Engineer and educator in the fields of Python programming, Machine Learning, and Data Science. Through his YouTube channel, Patrick aims to make these complex topics accessible to a wider audience by providing free, high-quality tutorials. His dedication to education is further emphasized by his interactive approach, inviting questions and feedback from his viewers. For those wishing to support his work, Patrick offers additional resources on his website and a Patreon page.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)  
+**Record Added:** 01 April 2024
+
+---
+#### [Sasha Rush 🤗](https://www.youtube.com/channel/UCCnH8mxROOqii6gesCmMRzQ)
+**View Count:** 83,036 (checked on 01 April 2024)  
+**Video Count:** 29 (checked on 01 April 2024)  
+
+Sasha Rush, a Cornell Tech professor and Hugging Face researcher, hosts a YouTube channel where he shares technical talks and courses on large language models (LLMs) and Deep Learning. The channel aims to demystify complex AI topics and make them accessible to a broader audience, contributing to the community's understanding of cutting-edge AI technologies.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCCnH8mxROOqii6gesCmMRzQ)  
+**Record Added:** 01 April 2024
+
+---
+#### [PyTorch](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw)
+**View Count:** 2,588,262 (checked on 01 April 2024)  
+**Video Count:** 353 (checked on 01 April 2024)  
+
+The official PyTorch YouTube channel offers insights into the latest tutorials, news, and advancements surrounding the PyTorch machine learning framework. As an open-source platform under the Linux Foundation, PyTorch enables both researchers and developers to build, train, and deploy machine learning models tackling various complex challenges, emphasizing community-driven development and the sharing of cutting-edge AI and ML techniques.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw)  
+**Record Added:** 01 April 2024
+
+---
+#### [Google DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
+**View Count:** 64,773,298 (checked on 01 April 2024)  
+**Video Count:** 186 (checked on 01 April 2024)  
+
+Google DeepMind is at the forefront of artificial intelligence research, aiming to harness AI for broad scientific and public benefit. With a team of diverse experts, DeepMind is pushing the boundaries of AI to address complex challenges, prioritizing safety and ethical considerations. Their achievements in AI research, such as advancements in healthcare, energy efficiency, and protein folding, showcase their commitment to applying AI for solving real-world problems.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)  
+**Record Added:** 01 April 2024
+
+---
+#### [HuggingFace](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w)
+**View Count:** 2,340,595 (checked on 01 April 2024)  
+**Video Count:** 252 (checked on 01 April 2024)  
+
+HuggingFace is at the forefront of advancing Natural Language Processing (NLP) and machine learning through a commitment to open-source and open-science. Their YouTube channel is a treasure trove of tutorials and insights on machine learning, NLP, and deep learning, showcasing the powerful tools and knowledge shared by the HuggingFace community.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w)  
+**Record Added:** 01 April 2024
+
+---
+#### [RAIL](https://www.youtube.com/channel/UC4e_-TvgALrwE1dUPvF_UTQ)
+**View Count:** 1,937,953 (checked on 01 April 2024)  
+**Video Count:** 292 (checked on 01 April 2024)  
+
+RAIL, the Robotic AI & Learning Lab at UC Berkeley, is a vibrant research community focused on the intersection of machine learning and robotics. Led by faculty, students, and post-docs, the lab explores innovative approaches in AI to advance the field of robotics. Lab director Sergey Levine spearheads these efforts, contributing significantly to both theoretical and practical advancements in AI and robotics.
+
+[Watch on Youtube](https://www.youtube.com/channel/UC4e_-TvgALrwE1dUPvF_UTQ)  
+**Record Added:** 01 April 2024
+
+---
+## Robotics
 
 #### [Skyentific](https://www.youtube.com/channel/UCcgqJ1blFKqbC2bWGY4Opmg)
 **Country:** Switzerland  
@@ -207,7 +287,17 @@ Robotics Today hosts a series of technical talks aiming to unite the robotics co
 **Record Added:** 01 April 2024
 
 ---
+#### [Stanford Computational Imaging Lab](https://www.youtube.com/channel/UCrjWHhrkZnq4jwqvtrx-jvA)
+**Country:** N/A  
+**View Count:** 464,193 (checked on 01 April 2024)  
+**Video Count:** 60 (checked on 01 April 2024)  
 
+The Stanford Computational Imaging Lab focuses on advancing imaging and computer vision technologies. Through their YouTube channel, they share their latest research and innovations in computational photography, computer vision, and related fields. Their work includes developing new methods for capturing and analyzing visual data, with applications ranging from healthcare to entertainment.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCrjWHhrkZnq4jwqvtrx-jvA)  
+**Record Added:** 01 April 2024
+
+---
 ## Engineering and DIY
 
 #### [Stephen Hawes](https://www.youtube.com/channel/UCMf49SMPnhxdLormhEpfyfg)
@@ -291,7 +381,28 @@ The 3D Printing Nerd channel, hosted by the passionate Joel Telling, is a vibran
 **Record Added:** 01 April 2024
 
 ---
+#### [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
+**Country:** United States  
+**View Count:** 289,975,312 (checked on 01 April 2024)  
+**Video Count:** 32 (checked on 01 April 2024)  
 
+"Stuff Made Here" is a channel where complex engineering and creative fabrications come to life. The creator, with a lifelong passion for building, aims to inspire and educate viewers on the joy of engineering. From childhood experiences of model building and soldering to professional engineering projects, this channel showcases the process of creating innovative gadgets and machines. It's a celebration of engineering that might inspire the next generation of engineers.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)  
+**Record Added:** 01 April 2024
+
+---
+#### [James Bruton](https://www.youtube.com/channel/UCUbDcUPed50Y_7KmfCXKohA)
+**Country:** United Kingdom  
+**View Count:** 151,427,870 (checked on 31 March 2024)  
+**Video Count:** 754 (checked on 31 March 2024)  
+
+James Bruton, a former toy designer turned YouTube maker, shares his passion for robotics, electrical, and mechanical engineering through his innovative and sometimes whimsical inventions. From cosplay to practical designs, James utilizes his trial and error methodology to push the boundaries of DIY and innovation. His channel is a treasure trove of useful maker advice, where 3D printing emerges as a solution to a wide array of challenges, proving that creativity and technology can make a significant impact.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCUbDcUPed50Y_7KmfCXKohA)  
+**Record Added:** 01 April 2024
+
+---
 ## Finance and Trading
 
 #### [ARK Invest](https://www.youtube.com/channel/UCK-zlnUfoDHzUwXcbddtnkg)
@@ -415,7 +526,69 @@ Dive into the future of distributed computing with Anyscale's YouTube channel, w
 **Record Added:** 01 April 2024
 
 ---
+#### [STEM Support](https://www.youtube.com/channel/UCAMTCW8gfx9TGKXxNqmQiXQ)
+**Country:** US  
+**View Count:** 2,126,469 (checked on 01 April 2024)  
+**Video Count:** 70 (checked on 01 April 2024)  
 
+STEM Support is a YouTube channel dedicated to providing educational content focused on Science, Technology, Engineering, and Mathematics (STEM). The channel aims to make STEM subjects accessible and engaging for a wide audience, ranging from students to enthusiasts looking to deepen their knowledge. With a range of tutorials, explanations, and insights into complex concepts, STEM Support serves as a valuable resource for anyone interested in furthering their understanding of STEM fields.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCAMTCW8gfx9TGKXxNqmQiXQ)  
+**Record Added:** 01 April 2024
+
+---
+#### [Socratica](https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q)
+**Country:** US  
+**View Count:** 58,508,631 (checked on 01 April 2024)  
+**Video Count:** 659 (checked on 01 April 2024)  
+
+Socratica is dedicated to delivering high-quality educational content in mathematics, science, and computer programming. Founded by Caltech graduates, Socratica aims to enhance the learning experience with well-crafted videos that encourage deeper understanding of STEM subjects. They also offer unique merchandise and have published a book to help students excel academically. Socratica's commitment to education extends to their engagement with their community through a mailing list and support options, including Patreon and PayPal.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q)  
+**Record Added:** 01 April 2024
+
+---
+#### [The Organic Chemistry Tutor](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA)
+**Country:** US  
+**View Count:** 1,165,940,032 (checked on 01 April 2024)  
+**Video Count:** 2,797 (checked on 01 April 2024)  
+
+The Organic Chemistry Tutor is a valuable educational resource offering comprehensive tutorials in a wide array of subjects including organic chemistry, general chemistry, physics, and various levels of mathematics from algebra to calculus. This channel is dedicated to helping students at different levels understand complex concepts through clear and concise explanations. Additionally, it supports learning through a Patreon membership program, providing extended videos and worksheets for deeper understanding.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA)  
+**Record Added:** 01 April 2024
+
+---
+#### [NancyPi](https://www.youtube.com/channel/UCRGXV1QlxZ8aucmE45tRx8w)
+**View Count:** 38,460,488 (checked on 01 April 2024)  
+**Video Count:** 43 (checked on 01 April 2024)  
+
+NancyPi, established by Nancy, an MIT graduate known for her expertise in algebra and calculus, continues the legacy of MathBFF on a new channel. This platform is dedicated to delivering math tutorials with clarity and insight. Nancy's commitment to education shines through each video, aiming to demystify complex mathematical concepts for students worldwide. Supporters can contribute via Patreon, ensuring the channel's growth and the continuous creation of valuable educational content.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCRGXV1QlxZ8aucmE45tRx8w)  
+**Record Added:** 01 April 2024
+
+---
+#### [Stanford](https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA)
+**View Count:** 280,885,566 (checked on 01 April 2024)  
+**Video Count:** 4,055 (checked on 01 April 2024)  
+
+Stanford University, established in the heart of the San Francisco Bay Area, stands on the ancestral land of the Muwekma Ohlone Tribe. It's a beacon of research, education, and innovation, working towards a sustainable future. With over 650 student organizations, extensive athletic and academic programs, and a robust financial aid system ensuring accessibility, Stanford educates global citizens to make an impact in society. Its vibrant campus life and commitment to interdisciplinary research highlight its founding mission of benefiting society.
+
+[Watch on Youtube](https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA)  
+**Record Added:** 01 April 2024
+
+---
+#### [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+**View Count:** 484,100,297 (checked on 01 April 2024)  
+**Video Count:** 172 (checked on 01 April 2024)  
+
+3Blue1Brown, created by Grant Sanderson, is a YouTube channel dedicated to making complex math and related fields like physics and computer science accessible through engaging visualizations. The channel focuses on visualizing core ideas, aiming to simplify challenging topics with a change in perspective. It's a valuable resource for learners looking to deepen their understanding of mathematical concepts through animation.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  
+**Record Added:** 01 April 2024
+
+---
 ## Agriculture and Sustainability
 #### [GroCycle](https://www.youtube.com/channel/UC-jOgJRKA9vHnSVR8Oe_wbA)
 **Country:** United Kingdom  
@@ -465,8 +638,16 @@ Discover the effortless way to harness the power of GPUs with brev, the solution
 **Record Added:** 01 April 2024
 
 ---
+#### [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ)
+**View Count:** 294,813,460 (checked on 01 April 2024)  
+**Video Count:** 464 (checked on 01 April 2024)  
 
+GreatScott! delivers engaging electronics tutorials, projects, and how-to guides. The channel emphasizes safety and educational content, aiming to inspire viewers to explore electronics within their capability. It's noted for clear explanations that make complex topics accessible to hobbyists and enthusiasts alike. Viewers are cautioned to prioritize safety and consider professional advice when necessary.
 
+[Watch on Youtube](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ)  
+**Record Added:** 01 April 2024
+
+---
 ## Decentralized Science (DeSci)
 #### [DeSci London](https://www.youtube.com/channel/UCdiT0pg0TMcRFW03tw9NhKw)
 **View Count:** 5,892 (checked on 31 March 2024)  
