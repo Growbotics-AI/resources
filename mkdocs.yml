@@ -57,6 +57,8 @@ extra:
       link: https://twitter.com/Tomas0413
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/growbotics.ai
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tomas-ramanauskas
   manifest: images/site.webmanifest
   analytics:
     provider: google
