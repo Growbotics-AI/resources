@@ -147,6 +147,19 @@ This introductory robotics book offers a unique and comprehensive view of mechan
 ---
 ### Computational Mathematics and Data Science
 
+#### [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://amzn.to/3vKBH28)
+
+**Author:** Cole Nussbaumer Knaflic  
+**Narrator:** Cole Nussbaumer Knaflic  
+**Audible.co.uk Release Date:** 31 January 2018  
+
+"Storytelling with Data" teaches you to communicate effectively with data through the power of storytelling. Learn the fundamentals of data visualization and how to make data a pivotal point in your story. With real-world examples for immediate application, you’ll understand the importance of context and audience, choose the right graph types, eliminate clutter, and direct attention to what matters most. This book turns your data into high-impact visual stories, challenging the norm of ineffective graphs and transforming data visualization into a compelling narrative.
+
+[Listen on Audible](https://amzn.to/3U9d9In) | [View on Amazon](https://amzn.to/3vKBH28)  
+**Record Added:** 08 April 2024
+
+---
+
 #### [Mathematics for Machine Learning](https://amzn.to/3THm4jW)
 
 **Authors:** Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong  
@@ -445,6 +458,19 @@ Robert Kiyosaki delves into the pivotal role of financial education in achieving
 
 ### Personal Growth and Strategy
 
+#### [The Power of Moments: Why Certain Experiences Have Extraordinary Impact](https://amzn.to/3xo1Eox)
+
+**Author:** Chip Heath, Dan Heath  
+**Narrator:** Jeremy Bobb  
+**Audible.co.uk Release Date:** 05 October 2017  
+
+"The Power of Moments" delves into why certain brief experiences can significantly impact us and how to intentionally create such moments in life and work. The authors, Chip and Dan Heath, share stories and insights on crafting memorable moments—whether in education, healthcare, or personal lives. From transforming a mediocre hotel into a beloved establishment to revamping a struggling school, they demonstrate that anyone can create extraordinary experiences. This book provides the tools to make memorable moments a deliberate part of our lives, challenging the notion of leaving significant experiences to chance.
+
+[Listen on Audible](https://amzn.to/3VNjcEE) | [View on Amazon](https://amzn.to/3xo1Eox)  
+**Record Added:** 08 April 2024
+
+---
+
 #### [How to Win Friends & Influence People](https://amzn.to/3vwQjSC)
 
 **Author:** Dale Carnegie  
@@ -520,6 +546,18 @@ Darren Hardy's "The Compound Effect" is a straightforward revelation of the trut
 ## Marketing and Communication
 
 ### Strategic Communication and Persuasion
+
+#### [Marketing to Mindstates: The Practical Guide to Applying Behavior Design to Research and Marketing](https://amzn.to/3TQe93D)
+
+**Author:** Will Leach  
+**Narrator:** Mike Rylander  
+**Audible.co.uk Release Date:** 15 July 2021  
+
+In "Marketing to Mindstates," Will Leach reveals how to break through the nonconscious filters that ignore traditional marketing, using behavior design. This guide shows how to engage customers emotionally by activating mindstates, leveraging behavior psychology and economics for impactful marketing. A must-read for marketers and researchers aiming for topline growth through behaviorally optimized messaging.
+
+[Listen on Audible](https://amzn.to/4ar4Kqk) | [View on Amazon](https://amzn.to/3TQe93D)  
+**Record Added:** 08 April 2024
+---
 
 #### [Influence, New and Expanded: The Psychology of Persuasion](https://amzn.to/4ailVuq)
 

@@ -1,5 +1,18 @@
 # YouTube Channels
+
 ## AI and Machine Learning
+
+#### [LangChain](https://www.youtube.com/channel/UCC-lyoTfSrcJzA1ab3APAgw)
+**View Count:** 982,680 (checked on 08 April 2024)  
+**Video Count:** 127 (checked on 08 April 2024)  
+
+Learn more about building LLM applications with LangChain, a channel dedicated to exploring the frontiers of large language models (LLMs) and their applications. Whether you're a developer, researcher, or just someone curious about the potential of AI and machine learning, LangChain offers insights, tutorials, and discussions that delve into the practical aspects of leveraging LLMs for innovation and problem-solving.
+
+[Watch on Youtube](https://www.youtube.com/channel/UCC-lyoTfSrcJzA1ab3APAgw)  
+**Record Added:** 08 April 2024
+
+---
+
 #### [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 **Country:** United States  
 **View Count:** 643.6 million (checked on 31 March 2024)  

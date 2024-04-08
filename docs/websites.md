@@ -1,5 +1,14 @@
 # Useful Websites
 
+#### [Dora-rs](https://dora.carsmos.ai/)
+
+In 2023, as AI continues to boom, the robotic framework has seen little innovation—until dora-rs. dora-rs is a groundbreaking robotic framework designed to modernize robotic applications, making them faster and simpler. It demonstrates impressive performance improvements by leveraging a shared memory server and Apache Arrow for zero-copy operations. This significant enhancement is especially beneficial for beginners, AI practitioners, and weekend hobbyists who have faced challenges due to the lack of Python support in robotics. Dora-rs stands out with its innovative features, marking a new era in robotics.
+
+[Visit website](https://dora.carsmos.ai/)  
+**Record Added:** 08 April 2024
+
+---
+
 #### [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 Rich Sutton's "The Bitter Lesson" emphasizes the profound impact of computational scalability over human-designed methods in AI progress. Highlighting historical instances in AI research, it advocates for leveraging computation to unlock AI's future potential, challenging the reliance on human knowledge. This reflective piece underscores a pivotal shift towards computation-driven AI methods, urging the field to embrace general-purpose approaches for groundbreaking advancements.
