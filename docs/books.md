@@ -4,6 +4,18 @@
 
 ### Artificial Intelligence and Machine Learning
 
+#### [A Brief History of Intelligence: Why the Evolution of the Brain Holds the Key to the Future of AI](https://amzn.to/49GOxMC)
+
+**Author:** Max Bennett  
+**Narrator:** George Newbern  
+**Audible.co.uk Release Date:** 24 October 2023  
+
+"A Brief History of Intelligence" bridges the gap between AI and neuroscience by exploring the evolutionary development of the brain. The book narrates the 4-billion-year journey of brain evolution through five pivotal breakthroughs—from the earliest neural structures to the sophisticated human brain. Each evolutionary stage not only advanced animal intellect but also mirrors key developments in artificial intelligence, offering intriguing insights into current AI challenges like 'common sense' and emotional cognition. This narrative maps out a fascinating journey, linking ancient adaptations to modern AI innovations.
+
+[Listen on Audible](https://amzn.to/3Q1q25H) | [View on Amazon](https://amzn.to/49GOxMC)  
+**Record Added:** 14 April 2024
+
+---
 #### [Architects of Intelligence: The Truth About AI from the People Building It](https://amzn.to/3IZBFq8)
 
 **Author:** Martin Ford  
