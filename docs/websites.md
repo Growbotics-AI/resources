@@ -1,10 +1,10 @@
 # Useful Websites
 
-#### [Dora-rs](https://dora.carsmos.ai/)
+#### [Dora-rs](https://dora-rs.ai/)
 
 In 2023, as AI continues to boom, the robotic framework has seen little innovation—until dora-rs. dora-rs is a groundbreaking robotic framework designed to modernize robotic applications, making them faster and simpler. It demonstrates impressive performance improvements by leveraging a shared memory server and Apache Arrow for zero-copy operations. This significant enhancement is especially beneficial for beginners, AI practitioners, and weekend hobbyists who have faced challenges due to the lack of Python support in robotics. Dora-rs stands out with its innovative features, marking a new era in robotics.
 
-[Visit website](https://dora.carsmos.ai/)  
+[Visit website](https://dora-rs.ai/)  
 **Record Added:** 08 April 2024
 
 ---
